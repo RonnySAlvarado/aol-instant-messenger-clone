@@ -4,11 +4,13 @@ import styled from "styled-components";
 
 // React Components
 import TopSection from "./TopSection";
+import TopSection2 from "./TopSection2";
 
 function App() {
   return (
     <AppContainer>
       <TopSection />
+      <TopSection2 />
     </AppContainer>
   );
 }

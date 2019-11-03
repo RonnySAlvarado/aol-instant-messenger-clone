@@ -34,8 +34,9 @@ const ButtonContainer = styled.div`
   padding: 0;
   background-color: blue;
   button {
+      margin-right: 2px;
       border-radius: 3px;
-      border: 1px solid white;
+      border: 1.15px solid white;
       background: blue;
       color: white;
       &:last-child {
